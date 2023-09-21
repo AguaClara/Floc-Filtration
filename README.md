@@ -6,6 +6,10 @@ Working on engineering a system to recycle flocs from the floc filter in a clari
 
 Elizabeth Bunker elb248@cornell.edu
 
+Lily DuPlooy led92@cornell.edu
+
+Matthew Twinomugisha tmk89@cornell.edu
+
 **Spring 2023 Team**
 
 Sarah Bae ssb238@cornell.edu
