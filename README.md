@@ -1,6 +1,12 @@
 # floc_filtration
 
-Working on engineering a system to recycle flocs from the floc filter in a clarifier. 
+Engineering a system to recycle flocs from the floc filter in a clarifier. 
+
+**Spring 2024 Team**
+
+Lily DuPlooy led92@cornell.edu
+
+Matthew Twinomugisha tmk89@cornell.edu
 
 **Fall 2023 Team**
 
@@ -9,6 +15,12 @@ Elizabeth Bunker elb248@cornell.edu
 Lily DuPlooy led92@cornell.edu
 
 Matthew Twinomugisha tmk89@cornell.edu
+
+[Fall 2023 Final Report](https://docs.google.com/document/d/e/2PACX-1vQ6bFhjHnYxNtdnEKAGb-ObU8phu5poE9KqvsQOUFwvds0K15mjY8v_Jn8QNdg4BVRurKiq7gMG6uI1/pub)
+
+[Fall 2023 Poster Presentation](https://drive.google.com/file/d/1HOe1SqDJPN45MgT_aUHH4li0QQUrNVTR/view?usp=sharing) 
+
+[Fall 2023 Midsemester Symposium Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRonHKQiLT5NZA3D3CWV-nTVEy1ekrv5syPxlbVu-JpvnfleMiFdThdtAoj4q2DIdV-iw9Dxemtotxb/pub?start=false&loop=false&delayms=3000)
 
 **Spring 2023 Team**
 
