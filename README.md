@@ -8,6 +8,10 @@ Lily DuPlooy led92@cornell.edu
 
 Matthew Twinomugisha tmk89@cornell.edu
 
+Christopher Miranda Soto cm2233@cornell.edu
+
+Grace Raab gar238@cornell.edu
+
 **Fall 2023 Team**
 
 Elizabeth Bunker elb248@cornell.edu
