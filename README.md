@@ -19,7 +19,9 @@ Christopher Miranda Soto cm2233@cornell.edu
 Grace Raab gar238@cornell.edu
 
 [Spring 2024 Final Report](https://docs.google.com/document/d/1MqIqJgF61gngFDAOI7lCmr_odaSVMiTcEWCKxTwm5SE/edit?usp=sharing)
-[Spring 2024 Poster Presentation]()
+
+[Spring 2024 Poster Presentation](https://drive.google.com/file/d/1gPc_Gbo-FO0g0JGBhhbK65-3SVS_UETE/view?usp=sharing)
+
 [Spring 2024 Midsemester Symposium Presentation](https://docs.google.com/presentation/d/1vAcUnIbxY1rJR2mCT-cf0IbIwXEjMPqiyH7dw-NJVcQ/edit?usp=sharing)
 
 **Fall 2023 Team**
