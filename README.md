@@ -2,6 +2,12 @@
 
 Engineering a system to recycle flocs from the floc filter in a clarifier. 
 
+**Fall 2024 Team**
+
+Grace Raab gar238@cornell.edu
+
+Christopher Miranda Soto cm2233@cornell.edu
+
 **Spring 2024 Team**
 
 Lily DuPlooy led92@cornell.edu
@@ -11,6 +17,10 @@ Matthew Twinomugisha tmk89@cornell.edu
 Christopher Miranda Soto cm2233@cornell.edu
 
 Grace Raab gar238@cornell.edu
+
+[Spring 2024 Final Report](https://docs.google.com/document/d/1MqIqJgF61gngFDAOI7lCmr_odaSVMiTcEWCKxTwm5SE/edit?usp=sharing)
+[Spring 2024 Poster Presentation]()
+[Spring 2024 Midsemester Symposium Presentation](https://docs.google.com/presentation/d/1vAcUnIbxY1rJR2mCT-cf0IbIwXEjMPqiyH7dw-NJVcQ/edit?usp=sharing)
 
 **Fall 2023 Team**
 
