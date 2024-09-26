@@ -8,6 +8,8 @@ Grace Raab gar238@cornell.edu
 
 Christopher Miranda Soto cm2233@cornell.edu
 
+Jeffrey Wang yw2645@cornell.edu
+
 **Spring 2024 Team**
 
 Lily DuPlooy led92@cornell.edu
